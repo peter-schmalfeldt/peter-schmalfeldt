@@ -3,7 +3,7 @@
 Peter Schmalfeldt
 ===
 
-I use this GitHub account for my day job, so there won't be any public activity here. If you want to check out my Open Source projects, check out my **[@manifestinteractive](https://github.com/manifestinteractive)** GitHub account.
+I use this GitHub account for my day job, so there won't be any public activity here. If you're looking for my Open Source Projects, check out my **[@manifestinteractive](https://github.com/manifestinteractive)** GitHub account.
 
 
 Certified SFCC Developer
